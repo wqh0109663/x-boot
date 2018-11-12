@@ -1,9 +1,9 @@
 # X-Boot
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/Exrick/xmall/blob/master/License)
 [![](https://img.shields.io/badge/Author-Exrick-orange.svg)](http://blog.exrick.cn)
-[![](https://img.shields.io/badge/version-1.1-brightgreen.svg)](https://github.com/Exrick/x-boot)
-[![GitHub stars](https://img.shields.io/github/stars/Exrick/x-boot.svg?style=social&label=Stars)](https://github.com/Exrick/x-boot)
-[![GitHub forks](https://img.shields.io/github/forks/Exrick/x-boot.svg?style=social&label=Fork)](https://github.com/Exrick/x-boot)
+[![](https://img.shields.io/badge/version-1.1-brightgreen.svg)](https://github.com/wqh0109663/x-boot)
+[![GitHub stars](https://img.shields.io/github/stars/wqh0109663/x-boot.svg?style=social&label=Stars)](https://github.com/wqh0109663/x-boot)
+[![GitHub forks](https://img.shields.io/github/forks/wqh0109663/x-boot.svg?style=social&label=Fork)](https://github.com/wqh0109663/x-boot)
 
 > 作者大四作品 能力经验有限 如有错误欢迎指正 期待您的捐赠支持！
 
